@@ -1,8 +1,8 @@
 # RipleyJean 
 Welcome to Ripley's repo! We designed this space to help any of Ripley's favorite friends care for her while we are away. 
 
-- If you're familiar with puppy care, the high level schedule below is designed for you. 👇
-- If you're cruious about what goes on in the mind of two obessive dog owners, check out `code`resources. These include a list of items in her [Vacation Bag](https://github.com/KristinaMarie/RipleyJean/blob/main/Vacation%20Bag.md), Vet info, [Food](https://github.com/KristinaMarie/RipleyJean/blob/main/Food.md) and [Training](https://github.com/KristinaMarie/RipleyJean/blob/main/Training.md) details. 
+- If you're cruious about what goes on in the mind of two obessive dog owners, check out `code`resources. These include a list of items in her [Vacation Bag](https://github.com/KristinaMarie/RipleyJean/blob/main/Vacation%20Bag.md), [Vet info](https://github.com/KristinaMarie/RipleyJean/blob/main/Veterinarian.md), [Food](https://github.com/KristinaMarie/RipleyJean/blob/main/Food.md) and [Training](https://github.com/KristinaMarie/RipleyJean/blob/main/Training.md) details. 
+- If you're familiar with puppy care, the TLDR schedule below is designed for you. 👇
 
 Feel free to recommend edits and ask questions in `issues`.  Thank you for caring for our little Fluffernutter and feel free to text, call, comment in an issue, ANYTHING, if you have questions. ♥️ 
 
