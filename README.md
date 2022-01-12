@@ -8,7 +8,8 @@ We try to keep her on a rough schedule, but don't stress if you get off track!
 
 | Time Frame | Activity | RipTips | 
 | --- | --- | --- |
-| 6am - 8am | Wake up & belly rubs! | - She will talk when she wants to get up and out <br> - She is a princess and expects belly rubs before leaving her den <br> - Take her out ASAP 💩 | 8am - 9am | [Breakfast](https://github.com/KristinaMarie/RipleyJean/blob/main/Food.md) | - Second bathroom break 20 mins after eating, she typically 💩 x2 in the AM | 
+| 6am - 8am | Wake up & belly rubs! | - She will talk when she wants to get up and out <br> - She is a princess and expects belly rubs before leaving her den <br> - Take her out ASAP 💩 
+| 8am - 9am | [Breakfast](https://github.com/KristinaMarie/RipleyJean/blob/main/Food.md) | - Second bathroom break 20 mins after eating, she typically 💩 x2 in the AM | 
 | 9am - 12:30pm | Play 🔁 Nap | - Don't wake the beast unless you want her up 😂 | 
 | 12:30pm - 2pm | [Lunch](https://github.com/KristinaMarie/RipleyJean/blob/main/Food.md) | - She typically grazes on her lunch, don't be alarmed if she doesn't finish right away. <br> - Third bathroom break following lunch 🟡 | 
 | 2pm - 6:30pm | [Play, Nap, Train & Walks! ](https://github.com/KristinaMarie/RipleyJean/blob/main/Training.md)| - Friendly reminders for play break are always appreciated | 
