@@ -1,5 +1,7 @@
-# RipleyJean
-Welcome to Ripley's repo! Below is a high level overview of her schedule, and you can find more detail with the `code` and `issues` section.
+# RipleyJean 
+Welcome to Ripley's repo! Below is a high level overview of her schedule, and you can find more detail with the `code` and `issues` section. Thank you for caring for our little Fluffernutter and feel free to text, call, comment in an issue, ANYTHING, if you have questions. ♥️ 
+
+
 
 ## A Day in the Life of Ripley Jean  
 We try to keep her on a rough schedule, but don't stress if you get off track! 
@@ -13,3 +15,5 @@ We try to keep her on a rough schedule, but don't stress if you get off track!
 | 6:30pm - 7:30pm | Dinner | - Tips here | 
 | 8:30pm | Pull all water 🚰 | - Ripley loves water, spare yourself extra late night walks and pull water access no later than 9pm | 
 | 9:45pm - 10:30pm | Final walk / bathroom break <br> Goodnight! | - Tips here | 
+
+<img width="389" alt="Screen Shot 2022-01-11 at 6 40 47 PM" src="https://user-images.githubusercontent.com/16786768/149054192-bac903ab-1aad-4895-b4ab-8c2903817006.png">
