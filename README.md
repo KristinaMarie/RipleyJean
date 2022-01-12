@@ -1,7 +1,12 @@
 # RipleyJean 
-Welcome to Ripley's repo! Below is a high level overview of her schedule, and you can find more detail with the `code` and `issues` section. Thank you for caring for our little Fluffernutter and feel free to text, call, comment in an issue, ANYTHING, if you have questions. ♥️ 
+Welcome to Ripley's repo! We designed this space to help any of Ripley's favorite friends care for her while we are away. 
 
+- If you're familiar with puppy care, the high level schedule below is designed for you. 👇
+- If you're cruious about what goes on in the mind of two obessive dog owners, check out `code`resources. These include a list of items in her Vacation Bag, Food and Training details, and vet info. 
 
+Feel free to recommend edits and ask questions in `issues`.  Thank you for caring for our little Fluffernutter and feel free to text, call, comment in an issue, ANYTHING, if you have questions. ♥️ 
+
+-----------------------------------------
 
 ## A Day in the Life of Ripley Jean  
 We try to keep her on a rough schedule, but don't stress if you get off track! 
